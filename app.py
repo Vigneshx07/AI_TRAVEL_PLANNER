@@ -29,7 +29,7 @@ def get_travel_recommendations(source, destination, mode, budget, time, traveler
 # Streamlit UI
 st.set_page_config(page_title="AI Travel Planner", layout="centered")
 
-st.title("✈️ AI-Powered Travel Planner")
+st.title("✈️ Wayfarer: AI-Powered Itineraries")
 st.markdown("Enter your travel details below to get recommendations!")
 
 # User Inputs
